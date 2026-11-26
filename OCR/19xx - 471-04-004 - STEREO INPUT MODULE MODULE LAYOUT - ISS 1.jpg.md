@@ -33,7 +33,7 @@ M471C stereo input module layout with PCB side view and front panel callouts.
 - **Words (OCR):** 60 in 55 lines: WBS · Matic · SwS · Swi 5w2.DSI,O5Z · MOUNTEO ON · 5414-075 · PREAMPLIFiER · Stereo · SUBASSEMBLY · MODE · PI-22 · 12
 - **Title block:** (256, 31)–(432, 307) mm: WBS · Matic · MODE · 12 · 13 · PGw · PEAK · SENS · PRE · PST · AUX · PRE · AUX · PrE · PST · AUX · PrE · PST · 15 · AUX · 16 · BAL · WBS WARD-BECK SYSTEMS
 
-Every curve, box, word and wire group: [19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20471-04-004%20-%20STEREO%20INPUT%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1 (traced).json](../MECHANICAL/19xx%20-%20471-04-004%20-%20STEREO%20INPUT%20MODULE%20MODULE%20LAYOUT%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1 (traced).dxf`).
 
 ## Full text
 

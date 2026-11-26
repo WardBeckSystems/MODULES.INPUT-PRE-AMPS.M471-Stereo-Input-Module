@@ -36,7 +36,7 @@ Wiki page: [M471](../../../../PAGES/M471.md)
 - **Title block:** (353, 30)–(428, 47) mm: WBS · WAAD-BeCk BysteMS · M471
 - **Wiring (first pass):** 159 connected wire groups from 935 runs; labelled ends: 194 mm → WBS, STEREO INPUT MODULE, SCAL; 147 mm → Swio; 136 mm → POST, 33/i0; 116 mm → SWS, SwA, Swio; 114 mm → 22k, R43
 
-Every curve, box, word and wire group: [1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3 (traced).json](../SCHEMATICS/1985%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20JEI%20-%20ENG%20PC%20-%20ISS%203%20(traced).json) (the CAD file: `1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3 (traced).json](../SCHEMATICS/1985%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20DRN%20JEI%20-%20ENG%20PC%20-%20ISS%203%20%28traced%29.json) (the CAD file: `1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3 (traced).dxf`).
 
 ## Full text
 

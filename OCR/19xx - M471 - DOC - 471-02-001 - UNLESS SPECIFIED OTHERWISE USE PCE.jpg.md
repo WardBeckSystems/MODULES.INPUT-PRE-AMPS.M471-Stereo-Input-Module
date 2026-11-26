@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (353, 7)–(432, 34) mm: WBS WARD-BECK SYSteMS · M471 · ckd BL · STEREO INPUT MODULE · SCHEMATIC
 - **Wiring (first pass):** 162 connected wire groups from 906 runs; labelled ends: 160 mm → POST; 152 mm → swio; 142 mm → R5G, 33k, R5B, CIs; 128 mm → 22/25, 20, 470k, iN4003; 118 mm → SWS, swio
 
-Every curve, box, word and wire group: [19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE (traced).json](../SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20UNLESS%20SPECIFIED%20OTHERWISE%20USE%20PCE%20(traced).json) (the CAD file: `19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE (traced).json](../SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20UNLESS%20SPECIFIED%20OTHERWISE%20USE%20PCE%20%28traced%29.json) (the CAD file: `19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE (traced).dxf`).
 
 ## Full text
 

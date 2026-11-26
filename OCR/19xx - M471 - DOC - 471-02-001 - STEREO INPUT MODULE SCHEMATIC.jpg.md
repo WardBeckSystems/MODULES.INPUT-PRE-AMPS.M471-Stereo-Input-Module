@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (348, 24)–(385, 46) mm: WBS · DRN_@L
 - **Wiring (first pass):** 161 connected wire groups from 940 runs; labelled ends: 157 mm → STEREO INPUT MODULE; 147 mm → Swio; 135 mm → POST, 33/i0; 116 mm → SWS, SwA, Swio; 114 mm → 22k, R4b
 
-Every curve, box, word and wire group: [19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

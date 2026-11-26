@@ -34,7 +34,7 @@ M471C stereo input module schematic.
 - **Title block:** (342, 28)–(432, 45) mm: WBS WARD-BECK SYSTEMS
 - **Wiring (first pass):** 257 connected wire groups from 1,886 runs; labelled ends: 427 mm → LMbjsN, 10/25, Sins, LMBJIN JJ/1o; 334 mm → 0/23; 315 mm → Sins, 5076, 4780, JJa0; 189 mm → Sm1d, SM _; 184 mm → SELECT
 
-Every curve, box, word and wire group: [19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20471-02-003%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20471-02-003%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

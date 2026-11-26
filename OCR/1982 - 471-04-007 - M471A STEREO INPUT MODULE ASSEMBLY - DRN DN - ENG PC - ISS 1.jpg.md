@@ -33,7 +33,7 @@ Wiki page: [M471](../../../../PAGES/M471.md)
 - **Words (OCR):** 37 in 34 lines: WBS · 4-123 · DS · sw 2 · R1,R2 · 8-109 · Sw 4 · AUX2 · sw 3 · 8-109 · R3, R 4 · SW 6
 - **Title block:** (186, 0)–(432, 292) mm: WBS · 4-123 · R1,R2 · 8-109 · AUX2 · sw 3 · R3, R 4 · sw 9 · Rs,R 6 · R7, R8 · Sw 3 · BoostER AMP (LEFT)- · ISSU DATE · REVISION · APp · WARO-BECK SySTEMS · WBS · ENG · M47 1A · STEREO INPUT MODULE · 
 
-Every curve, box, word and wire group: [1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1 (traced).json](../MECHANICAL/1982%20-%20471-04-007%20-%20M471A%20STEREO%20INPUT%20MODULE%20ASSEMBLY%20-%20DRN%20DN%20-%20ENG%20PC%20-%20ISS%201%20(traced).json) (the CAD file: `1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1 (traced).json](../MECHANICAL/1982%20-%20471-04-007%20-%20M471A%20STEREO%20INPUT%20MODULE%20ASSEMBLY%20-%20DRN%20DN%20-%20ENG%20PC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1 (traced).dxf`).
 
 ## Full text
 
