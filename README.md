@@ -1,17 +1,17 @@
-# M471 · Input Pre Amps
+# M471 Stereo Input Module · Input Pre Amps
 
 Ward-Beck Systems M471, 1977|10. Wiki page: [M471 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 34 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 7 |
-| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 15 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 36 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 20 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 3 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 1 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 14 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
 
@@ -32,29 +32,20 @@ _Photographs of the module itself: front, back, inside, racked._
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWVBTbEpxRG95b1U/view?resourcekey=0-sZCLyYGU13mIruQgkDB5uQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWVBTbEpxRG95b1U&resourcekey=0-sZCLyYGU13mIruQgkDB5uQ" width="240" alt="1977 - M471 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU.jpg"></a><br><sub>1977|10 · DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKWVBTbEpxRG95b1U/view?resourcekey=0-sZCLyYGU13mIruQgkDB5uQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKWVBTbEpxRG95b1U&resourcekey=0-sZCLyYGU13mIruQgkDB5uQ" width="240" alt="1977 - M471 - DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU.jpg"></a><br><sub>1977|10 · DOC - 77012-04-011 - FADERS SPACE FOR MOTION CONTROL ISSU · <a href="MECHANICAL/1977%20-%20M471%20-%20DOC%20-%2077012-04-011%20-%20FADERS%20SPACE%20FOR%20MOTION%20CONTROL%20ISSU%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1.jpg`, `19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1.jpg`, `19xx - 471-04-004.jpg`
-
-## 3-D model
-
-[`MECHANICAL/M471.stl`](MECHANICAL/M471.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M471)
-
-- **Size:** 52.03 × 313.49 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
-- **From the drawing:** 24 holes and cut-outs, 2 knobs (front panel: `MECHANICAL/M471 - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.17: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M471.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1ITP9LO5NKHB1SY4SOhS7aYOEoCN8KBE-/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1ITP9LO5NKHB1SY4SOhS7aYOEoCN8KBE-" width="240" alt="19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1l9JU1dG8Qo-9G5s0FLiPus6R0RzW6kac/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1l9JU1dG8Qo-9G5s0FLiPus6R0RzW6kac" width="240" alt="19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE.jpg"></a><br><sub>19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1ITP9LO5NKHB1SY4SOhS7aYOEoCN8KBE-/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1ITP9LO5NKHB1SY4SOhS7aYOEoCN8KBE-" width="240" alt="19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC.jpg"></a><br><sub>19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1l9JU1dG8Qo-9G5s0FLiPus6R0RzW6kac/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1l9JU1dG8Qo-9G5s0FLiPus6R0RzW6kac" width="240" alt="19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE.jpg"></a><br><sub>19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE · <a href="SCHEMATICS/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20UNLESS%20SPECIFIED%20OTHERWISE%20USE%20PCE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1982 - 471-01-002 - M471A STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN D.N.-82 - ENG PC - ISS 1.jpg`, `1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3.jpg`, `19xx - 471-01-002.jpg`, `19xx - 471-01-004 - M471C STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 471-01-004 - STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 471-06-002.jpg`
+Not on Google Drive yet: `1982 - 471-01-002 - M471A STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN D.N.-82 - ENG PC - ISS 1.jpg`, `1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3.jpg`, `19xx - 471-01-004 - M471C STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 471-01-004 - STEREO INPUT MODULE FUNCTIONAL - ISS 1.jpg`, `19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1.jpg`, `19xx - 471-06-002.jpg`
 
 ## KiCad
 
@@ -66,7 +57,14 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - 471-01-004 - M471C STEREO INPUT MODULE FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%20471-01-004%20-%20M471C%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [19xx - 471-01-004 - STEREO INPUT MODULE FUNCTIONAL - ISS 1.kicad_sch](KICAD/19xx%20-%20471-01-004%20-%20STEREO%20INPUT%20MODULE%20FUNCTIONAL%20-%20ISS%201.kicad_sch)
 - [19xx - 471-02-003 - STEREO INPUT MODULE SCHEMATIC - ISS 1.kicad_sch](KICAD/19xx%20-%20471-02-003%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC%20-%20ISS%201.kicad_sch)
+- [19xx - M471 - DOC - 471-02-001 - STEREO INPUT MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20STEREO%20INPUT%20MODULE%20SCHEMATIC.kicad_sch)
+- [19xx - M471 - DOC - 471-02-001 - UNLESS SPECIFIED OTHERWISE USE PCE.kicad_sch](KICAD/19xx%20-%20M471%20-%20DOC%20-%20471-02-001%20-%20UNLESS%20SPECIFIED%20OTHERWISE%20USE%20PCE.kicad_sch)
 - [M471.kicad_sym](KICAD/M471.kicad_sym)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
