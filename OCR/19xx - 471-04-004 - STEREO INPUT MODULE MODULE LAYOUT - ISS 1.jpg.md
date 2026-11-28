@@ -1,5 +1,5 @@
 # 19xx - 471-04-004 - STEREO INPUT MODULE MODULE LAYOUT - ISS 1.jpg
-Wiki page: [M471](../../../../PAGES/M471.md)
+Wiki page: [M471](../)
 
 
 - **Year:** unknown (title block (read by eye))

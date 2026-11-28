@@ -1,5 +1,5 @@
 # 1982 - 471-04-007 - M471A STEREO INPUT MODULE ASSEMBLY - DRN DN - ENG PC - ISS 1.jpg
-Wiki page: [M471](../../../../PAGES/M471.md)
+Wiki page: [M471](../)
 
 
 - **Year:** 1982 (title block date)

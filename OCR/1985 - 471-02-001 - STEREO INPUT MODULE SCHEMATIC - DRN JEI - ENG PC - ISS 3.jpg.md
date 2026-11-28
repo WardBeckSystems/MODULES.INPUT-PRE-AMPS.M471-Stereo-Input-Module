@@ -1,5 +1,5 @@
 # 1985 - 471-02-001 - STEREO INPUT MODULE SCHEMATIC - DRN JEI - ENG PC - ISS 3.jpg
-Wiki page: [M471](../../../../PAGES/M471.md)
+Wiki page: [M471](../)
 
 
 - **Year:** 1985 (title block date)

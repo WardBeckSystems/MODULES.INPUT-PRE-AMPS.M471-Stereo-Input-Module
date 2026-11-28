@@ -1,5 +1,5 @@
 # 1982 - 471-01-002 - M471A STEREO INPUT MODULE FUNCTIONAL DIAGRAM - DRN D.N.-82 - ENG PC - ISS 1.jpg
-Wiki page: [M471](../../../../PAGES/M471.md)
+Wiki page: [M471](../)
 
 
 - **Year:** 1982 (title block date)

@@ -1,6 +1,6 @@
 # M471 Stereo Input Module · Input Pre Amps
 
-Ward-Beck Systems M471, 1977|10. Wiki page: [M471 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M471.html)
+Ward-Beck Systems M471, 1977|10. Wiki page: [M471 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M471-Stereo-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
